@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+h1 {
+	color: purple;
+}
+
+.pone{
+	color: blue;
+	background-color: yellow;
+}
+
+.about{
+	color: white;
+	background-color: black;
+}
+
+.patriotism {
+	color: red;
+}
